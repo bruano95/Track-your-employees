@@ -21,7 +21,7 @@
   ### After the user is able to clone the repository and installed the correct /necessary packages, the user must now start the application by entering "node server.js" within the terminal. This will provide a series of prompted questions. The user has a choice here to determine which part of the application is needed. After selecting a specific desire the user is then prompted with further questions needed to add, update, or view the tables.  
   
   ## LICENSE
-  ### N/A
+  ### Null
 
   ## CONTRIBUTION
   ### Developer: Brandon Ruano
