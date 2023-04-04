@@ -12,7 +12,7 @@
   - [EMAIL](#EMAIL)
 
   ## DESCRIPTION
-  ### This is a CLI application that uses SQL to provide an easy solution to tracking a workforce. The application allows for a user to create and edit an employee database. The user has the options to view each table within the database, they can add additional departments, roles, and employees. The user can also update an existing employee's role. This application was created to help provide an easier way to keep track of your current staff.
+  ### This is a CLI application that uses SQL to provide an easy solution to tracking a workforce. The application allows for a user to create and edit an employee database. The user has the options to view each table within the database, they can add additional departments, roles, and employees. The user can also update an existing employee's role. This application was created to help provide an easier way to keep track of your current staff. Walkthrough video: https://drive.google.com/file/d/1F6WInSrp-zkKv4PccfFW99UN9kYBxhnp/view
 
   ## INSTALLATION
   ### In order to install this application the user must clone this respository to their local. The user then needs to be sure to install the appropriate json packages using (npm i). After this the user can freely use the application by starting the CLI within the terminal.
